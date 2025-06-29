@@ -1,6 +1,6 @@
 # 🛒 Analisis Perilaku Belanja Konsumen: Proyek Clustering Data Mining
 
-[Link Penjelasan (Youtube)](https://via.placeholder.com/1200x400.png?text=Analisis+Perilaku+Belanja+Konsumen)
+[Link Penjelasan (Youtube)](https://youtu.be/9h-n6eERxXA)
 
 ## 📝 Deskripsi Proyek
 
